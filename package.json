@@ -7,5 +7,8 @@
     "AngularJS"
   ],
   "author": "Tanawat Tassana <amp.tanawat@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "karma": "^0.12.28"
+  }
 }
