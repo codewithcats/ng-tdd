@@ -1,0 +1,11 @@
+{
+  "name": "ng-tdd",
+  "version": "0.1.0",
+  "description": "TDD with AngularJS demonstration",
+  "keywords": [
+    "TDD",
+    "AngularJS"
+  ],
+  "author": "Tanawat Tassana <amp.tanawat@gmail.com>",
+  "license": "MIT"
+}
